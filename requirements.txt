@@ -1,5 +1,9 @@
-matplotlib==3.11.1
-pandas==3.0.5
+matplotlib==3.10.9
+numpy==2.2.6
+pandas==2.3.3
 statsforecast==2.1.1
+statsmodels==0.15.0
 streamlit==1.61.1
 supabase==2.31.0
+supabase-auth==2.31.0
+supabase-functions==2.31.0
